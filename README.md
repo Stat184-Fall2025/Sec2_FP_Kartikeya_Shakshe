@@ -3,6 +3,7 @@
 The DNA of Music: Decoding Genre Personalities Through Sound
 An exploratory data analysis project that uncovers the unique "audio fingerprint" of 125 music genres by analyzing 114,000 Spotify tracks. This project transforms raw audio features into visual insights about why different genres make us feel and move differently.
 
+[![Dataset](https://img.shields.io/badge/Dataset-Kaggle-20BEFF.svg)](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset)
 
 Table of Contents
 
